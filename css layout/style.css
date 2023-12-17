@@ -1,0 +1,97 @@
+
+/* ######NORMAL FLOW ################## */
+/* body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;}
+    h1 {
+    background-color: #efefef;
+    padding: 10px;}
+    p {
+    width: 450px;} */
+
+/* ############# RELATIVE POSITION############## */
+
+/* p{
+    position: relative;
+    top: 50%;
+    left: 50%;
+} */
+
+/* position absolute */
+/* h1{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    width: 250px;
+}
+p{
+    width: 450px;
+} */
+
+/* POSITION FIXED */
+/* h1{
+    position: fixed;
+} */
+
+
+/* Floating  in css */
+
+/* blockquote {
+    float: right;
+    width: 275px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, Times, serif;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;} */
+
+
+
+
+     /* Clearing floats */
+
+    /* body {
+        width: 750px;
+        font-family: Arial, Verdana, sans-serif;
+        color: #665544;}
+        p {
+        width: 230px;
+        float: left;
+        margin: 5px;
+        padding: 5px;
+        background-color: #efefef;}
+        .clear {
+        clear: left;} */
+
+
+
+        /* Creating multi-columns */
+/* 
+        .column1of2 {
+            float: left;
+            width: 620px;
+            margin: 10px;}
+            .column2of2 {
+            float: left;
+            width: 300px;
+            margin: 10px;} */
+
+
+
+            /* 960gs grid system */
+            /* * {
+                font-family: Arial, Verdana, sans-serif;
+                color: #665544;
+                text-align: center;}
+                #nav, #feature, .article, #footer {
+                background-color: #efefef;
+                margin-top: 20px;
+                padding: 10px 0px 5px 0px;}
+                #feature, .article {
+                height: 100px;}
+                li {
+                display: inline;
+                padding: 5px;} */
